@@ -23,7 +23,7 @@ This is just a Python file for LFSR key randomness testing. It is a GUI when you
 •	Copy an LFSR key (Binary stream) from the Java application and paste it into this Python page. Select all the test parameters you want and generate results.
 
 
-Interface
+Sample Interface
 ==================================
 
 ![00](https://github.com/user-attachments/assets/7af809bb-d92a-4609-8fcc-f2edda67231a)
